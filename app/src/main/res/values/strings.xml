@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">GPSTracking</string>
+    <string name="lat">Lat:</string>
+    <string name="_0_00">0.00</string>
+    <string name="lon">lon:</string>
+    <string name="altitude">Altitude:</string>
+    <string name="accuracy">Accuracy:</string>
+    <string name="speed">Speed:</string>
+    <string name="sensor">Sensor:</string>
+    <string name="cell_tower_wifi">Cell Tower + Wifi</string>
+    <string name="updates">Updates:</string>
+    <string name="off">Off</string>
+    <string name="location_updates">Location Updates</string>
+    <string name="gps_savepower">GPS/SavePower</string>
+    <string name="address">Address:</string>
+    <string name="find_location">Find Location</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="location_access_required">Location Access Required</string>
+    <string name="InfoText">When Location is enabled, the map will automatically center on the user, otherwise the map will go to default location. If you would like to change location permissions in the future, you can do so through your settings.</string>
+    <string name="use_location">Use Location</string>
+    <string name="use_default">Use Default</string>
+</resources>
